@@ -1,7 +1,7 @@
-Este é um simples exemplo de como validar os bindings usando reflection.
+Este Ã© um simples exemplo de como validar os bindings usando reflection.
 
-O código está validando apenas os bindings de componentes do tipo DataGridView e ComboBox.
-Caso você faça uso do código, recomendo fazer uma refatoração e adicionar suporte a outros componentes.
+O cÃ³digo estÃ¡ validando apenas os bindings de componentes do tipo DataGridView e ComboBox.
+Caso vocÃª faÃ§a uso do cÃ³digo, recomendo fazer uma refatoraÃ§Ã£o e adicionar suporte a outros componentes.
 
-Maires informações aqui:
+Maires informaÃ§Ãµes aqui:
 http://www.diogomafra.com.br/2010/04/validando-bindings-usando-reflection.html
